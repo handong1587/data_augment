@@ -1,5 +1,3 @@
-__author__ = 'jblin'
-
 import numpy
 import random
 from random import randint

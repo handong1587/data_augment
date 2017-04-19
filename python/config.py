@@ -1,5 +1,3 @@
-__author__ = 'jblin'
-
 INPUT_DIR = '/data/jinbin.lin/data/similarity/original/'
 OUTPUT_DIR = '/data/jinbin.lin/data/similarity/augmented'
 
@@ -7,12 +5,12 @@ IMAGE_LIST = '/data/jinbin.lin/data/similarity/augmented/image.list'
 TRAIN_LIST = '/data/jinbin.lin/data/similarity/augmented/train.list'
 VAL_LIST   = '/data/jinbin.lin/data/similarity/augmented/val.list'
 
-DEBUG = False 
+DEBUG = False
 
 TARGET_WIDTH = 64
 TARGET_HEIGHT = 64
 
-RANDOM_ITER = 100 
+RANDOM_ITER = 100
 
 # resize
 RANDOM_RESIZE_LB = 0.8

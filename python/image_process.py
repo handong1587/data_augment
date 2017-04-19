@@ -1,4 +1,3 @@
-__author__ = 'jblin'
 # first version: 2015/01/30
 # second version: 2015/12/17
 

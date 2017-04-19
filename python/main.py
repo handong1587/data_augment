@@ -1,5 +1,3 @@
-__author__ = 'jblin'
-
 import config as cfg
 import utils
 import os

@@ -1,4 +1,3 @@
-__author__ = 'jblin'
 # http://svn.navi.cx/misc/trunk/pycaptcha/Captcha/Visual/Distortions.py
 
 import math

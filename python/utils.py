@@ -1,5 +1,3 @@
-__author__ = 'jblin'
-
 import config as cfg
 import os
 import os.path as osp
