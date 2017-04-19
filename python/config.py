@@ -1,9 +1,9 @@
-INPUT_DIR = '/data/jinbin.lin/data/similarity/original/'
-OUTPUT_DIR = '/data/jinbin.lin/data/similarity/augmented'
+INPUT_DIR = '/path/to/data/similarity/original/'
+OUTPUT_DIR = '/path/to/data/similarity/augmented'
 
-IMAGE_LIST = '/data/jinbin.lin/data/similarity/augmented/image.list'
-TRAIN_LIST = '/data/jinbin.lin/data/similarity/augmented/train.list'
-VAL_LIST   = '/data/jinbin.lin/data/similarity/augmented/val.list'
+IMAGE_LIST = '/path/to/data/similarity/augmented/image.list'
+TRAIN_LIST = '/path/to/data/similarity/augmented/train.list'
+VAL_LIST   = '/path/to/data/similarity/augmented/val.list'
 
 DEBUG = False
 
